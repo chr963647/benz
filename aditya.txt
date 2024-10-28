@@ -1,0 +1,144 @@
+one to one aditya>
+
+
+Linux commands
+git commands 
+azure devops :
+pipelines
+
+
+azure  admin
+
+services 
+
+terraform
+
+docker
+
+kuberntes
+
+Powershell
+
+
+
+Linux commands:
+git commands
+
+technical architect
+
+managers
+
+developers
+
+testers
+
+planning---
+
+coding
+
+build
+
+testing
+
+deployment
+
+operate
+
+monitoring
+
+
+scm: source code management tools:
+
+github,bitbucket,azure repos
+
+project managemtnt tool:
+
+Jira-atlasian --$$$$
+
+.net---visual stuido ----purchase
+
+
+.net--framework---iis webserver---sql server--outlook,--teams
+
+
+ azure  admin
+
+ 
+azure devops
+
+
+powershell:
+
+
+Linux commands: ----
+
+download gitbash
+
+
+pwd
+cd
+touch 
+vi  esc:wq  esc:q
+rm
+rm -rf 
+cd ../..
+cd exactpath
+hostname
+ipconfig
+cat 
+
+
+chennai  
+delhi
+
+read write execute
+
+UGO 
+  u     g     o
+-rw-   r--   r--
+
+read -4
+write 2
+execute 1
+
+ugo
+777
+chmod 777 chennai
+
+chmod 177 chennai
+
+477
+244
+
+
+chmod u+rwx chennai
+
+chmod u-r chennnai
+
+
+code--local--cloud()---vcs 
+
+scm--source code mgmt-github-vcs (version control system)--git
+
+sign up for github---free(public,private)--gmail
+
+repository: place where you can store all the code
+
+git clone --copy
+
+git pull
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
